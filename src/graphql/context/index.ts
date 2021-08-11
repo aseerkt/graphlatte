@@ -1,4 +1,4 @@
-import { prisma } from "@/graphql/database";
+import { prisma } from "@/database";
 import { ExtendedRequest } from "@/graphql/session";
 import { PrismaClient } from "@prisma/client";
 import { Session } from "next-iron-session";

@@ -10,11 +10,9 @@
 
 1. GraphQL Helix with GraphQL Playground
 2. Nexus with Prisma (`nexus-prisma`)
-3. GraphQL Codegen
-   - TypedDocumentNode
-   - Near operation files
+3. GraphQL Codegen with gql-tag-operations preset
 4. Tailwind (JIT mode) with a base configuration
-5. Docker Compose for local Postgres database
+5. Docker Compose for local PostgreSQL database
 6. On-save Code generation with VSCode plugin [`Save and Run`](https://marketplace.visualstudio.com/items?itemName=wk-j.save-and-run)
 7. Next.js built-in ESLint integration
 8. Easy global typing with [`definitions.d.ts`](https://github.com/graphlatte/graphlatte/blob/main/src/config/definitions.d.ts) file (e.g. typing .env)

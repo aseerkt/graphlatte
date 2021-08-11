@@ -30,6 +30,7 @@ export default class CustomDocument extends Document {
           <link rel="canonical" href={seo.url} />
 
           {/* Inter */}
+          <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
             rel="preconnect"
             href="https://fonts.gstatic.com"
